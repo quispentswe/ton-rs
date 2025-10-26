@@ -336,3 +336,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - init tonlib ([#35](https://github.com/Sild/libs_rs/pull/35))
 - release v0.3.1 ([#33](https://github.com/Sild/libs_rs/pull/33))
+
+<!-- Auto-update: 2025-10-26T08:15:39.386232 -->
